@@ -1,6 +1,8 @@
 # ecommerce-react-DRF-API
 ## this is my first react-djangoDRF with special API Projecct I wish you will enjoy (:
 
+![this is demo site](https://zam-test.iran.liara.run/)
+
 ![This is an image](./frontend/public/Screen%20Shot%202023-03-12%20at%204.41.54%20AM.png)
 
 # Features
@@ -18,7 +20,7 @@
 - Mark orders as delivered option
 - Checkout process (shipping, payment method, etc)
 
-![This is an image](./frontend//public/Screen Shot 2023-03-12 at 4.41.07 AM.png)
+![This is an image](./frontend/public/Screen%20Shot%202023-03-12%20at%204.41.07%20AM.png)
 
 
 # Download & Setup Instructions
