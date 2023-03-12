@@ -1,7 +1,7 @@
 # ecommerce-react-DRF-API
 ## this is my first react-djangoDRF with special API Projecct I wish you will enjoy (:
 
-![this is demo site](https://zam-test.iran.liara.run/)
+deom site ==> (https://zam-test.iran.liara.run/)
 
 ![This is an image](./frontend/public/Screen%20Shot%202023-03-12%20at%204.41.54%20AM.png)
 
