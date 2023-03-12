@@ -1,0 +1,15 @@
+kind: ExternalService
+name: zamtest
+spec:
+  image_pull_policy: Always
+  port: 80
+  source:
+    context: .
+    media_path: static/images
+    project_type: django
+    python_version: '3.7'
+    static_path: staticifiles
+    wsgi: backend.wsgi
+  volume_mounts:
+  - mount_path: /usr/src/app/static/images
+    sub_path: zamtest/media

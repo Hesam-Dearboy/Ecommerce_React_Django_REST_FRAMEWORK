@@ -1,0 +1,14 @@
+{
+    "django": {
+        "pythonVersion": "3.9"
+      } 
+      ,
+
+    "disks" : [
+        {
+            "name" : "sql-lite",
+            "mountTo" : "data"
+        }
+    ]
+
+}
