@@ -25,7 +25,7 @@ deom site ==> (https://zam-test.iran.liara.run/)
 
 # Download & Setup Instructions
 
-- 1 - Clone project: git clone https://github.com/Hesam-Dearboy/ecommerce-react-DRF-API.git
+- 1 - Clone project: git clone https://github.com/Hesam-Dearboy/Ecommerce_React_Django_REST_FRAMEWORK.git
 - 2 - cd backend
 - 3 - Create virtual environment: virtualenv myenv
 - 4 - myenv\scripts\activate
